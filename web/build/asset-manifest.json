@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/web/build/static/css/main.d97f4c14.css",
+    "main.js": "/web/build/static/js/main.dd4c8c7b.js",
+    "static/media/FontsFree-Net-SF-Compact-Rounded-Regular (1).ttf": "/web/build/static/media/FontsFree-Net-SF-Compact-Rounded-Regular (1).3e9a80bfed2a97a23c6f.ttf",
+    "index.html": "/web/build/index.html",
+    "main.d97f4c14.css.map": "/web/build/static/css/main.d97f4c14.css.map",
+    "main.dd4c8c7b.js.map": "/web/build/static/js/main.dd4c8c7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d97f4c14.css",
+    "static/js/main.dd4c8c7b.js"
+  ]
+}
